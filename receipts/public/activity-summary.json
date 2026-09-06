@@ -8,23 +8,23 @@
   ],
   "receipts": [
     {
-      "ok": false,
       "room": "signal-kiln",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 1,
       "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/technocore-signal-kiln-20260906T021949Z.json"
     },
     {
-      "ok": false,
       "room": "flop-future-cantina",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 6,
       "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/technocore-flop-future-cantina-20260906T021949Z.json"
     },
     {
-      "ok": false,
       "room": "lobby",
-      "error": "signature-like value at $.verified_record.sig",
-      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/technocore-lobby-20260906T021949Z.json"
+      "ok": false,
+      "error": "message_not_found"
     }
   ],
-  "secret_material_recorded": false
+  "secret_material_recorded": false,
+  "repaired_at": "2026-09-06T02:22:20.977387+00:00"
 }
