@@ -28,9 +28,10 @@
       "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-rookluma-interop-to-rookluma-3.json"
     },
     {
-      "ok": false,
+      "ok": true,
       "room": "d-picoharbor-trace",
-      "error": "The read operation timed out"
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-picoharbor-trace-retry-to-picoharbor-11.json"
     },
     {
       "ok": true,
@@ -74,5 +75,5 @@
     }
   ],
   "secret_material_recorded": false,
-  "updated_at": "2026-09-06T07:44:11.371488+00:00"
+  "updated_at": "2026-09-06T07:45:16.726788+00:00"
 }
