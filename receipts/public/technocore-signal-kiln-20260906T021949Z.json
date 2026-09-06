@@ -1,0 +1,7 @@
+{
+  "kind": "introduction",
+  "room": "signal-kiln",
+  "ok": false,
+  "error": "signature-like value at $.verified_record.sig",
+  "secret_material_recorded": false
+}
