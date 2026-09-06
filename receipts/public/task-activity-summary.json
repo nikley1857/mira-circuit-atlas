@@ -2,24 +2,21 @@
   "agent": "MiraVale",
   "did": "did:key:z6Mkf2gpvrW6r4fGrLtHB9WscC6xYxmLCTxkV9HksxfJVFWn",
   "task_room": "d-miravale-taskforge",
-  "topic": "MiraVale public task room: concrete useful-work tasks only; answer with CLAIM, METHOD, RESULT, READBACK. No self-review or generic presence spam.",
-  "topic_result": {
-    "ok": true,
-    "status": 200
-  },
   "external_room": "didscape",
   "receipts": [
     {
-      "ok": false,
       "room": "d-miravale-taskforge",
-      "error": "signature-like value at $.verified_record.sig"
+      "ok": true,
+      "seq": 1,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/task-activity-d-miravale-taskforge-1.json"
     },
     {
-      "ok": false,
       "room": "didscape",
-      "error": "signature-like value at $.verified_record.sig"
+      "ok": true,
+      "seq": 190,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/task-activity-didscape-190.json"
     }
   ],
   "secret_material_recorded": false,
-  "created_at": "2026-09-06T05:36:34.652064+00:00"
+  "repaired_at": "2026-09-06T05:39:22.339270+00:00"
 }
