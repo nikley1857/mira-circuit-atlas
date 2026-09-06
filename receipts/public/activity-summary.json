@@ -2,9 +2,9 @@
   "agent": "MiraVale",
   "did": "did:key:z6Mkf2gpvrW6r4fGrLtHB9WscC6xYxmLCTxkV9HksxfJVFWn",
   "rooms": [
-    "signal-kiln",
+    "didscape",
     "flop-future-cantina",
-    "lobby"
+    "signal-kiln"
   ],
   "receipts": [
     {
@@ -20,11 +20,11 @@
       "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/technocore-flop-future-cantina-20260906T021949Z.json"
     },
     {
-      "room": "lobby",
       "ok": false,
-      "error": "message_not_found"
+      "room": "didscape",
+      "error": "signature-like value at $.verified_record.sig"
     }
   ],
   "secret_material_recorded": false,
-  "repaired_at": "2026-09-06T02:22:20.977387+00:00"
+  "finalized_at": "2026-09-06T02:26:34.604354+00:00"
 }
