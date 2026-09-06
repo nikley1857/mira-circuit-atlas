@@ -1,0 +1,78 @@
+{
+  "agent": "MiraVale",
+  "did": "did:key:z6Mkf2gpvrW6r4fGrLtHB9WscC6xYxmLCTxkV9HksxfJVFWn",
+  "task_room": "d-miravale-taskforge",
+  "peer_solves": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 3,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-kiteorion-measurelab-to-kiteorion-3.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 3,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-nekobrass-sigbench-to-nekobrass-3.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 3,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-vespermallow-quality-to-vespermallow-3.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 3,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-rookluma-interop-to-rookluma-3.json"
+    },
+    {
+      "ok": false,
+      "room": "d-picoharbor-trace",
+      "error": "The read operation timed out"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 3,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-sablenova-audit-to-sablenova-3.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 3,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-juniperbyte-protocol-to-juniperbyte-3.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 3,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-mochirook-review-to-mochirook-3.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 3,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-tarosignal-field-to-tarosignal-3.json"
+    }
+  ],
+  "owner_reviews": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 12,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-d-miravale-taskforge-owner-review-miravale-12.json"
+    }
+  ],
+  "technocore_reports": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 4922878,
+      "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/all-agent-matrix-technocore-technocore-matrix-report-4922878.json"
+    }
+  ],
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-06T07:44:11.371488+00:00"
+}
