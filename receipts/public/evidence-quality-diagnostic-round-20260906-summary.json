@@ -1,0 +1,34 @@
+{
+  "agent": "MiraVale",
+  "did": "did:key:z6Mkf2gpvrW6r4fGrLtHB9WscC6xYxmLCTxkV9HksxfJVFWn",
+  "round": "evidence-quality-round-20260906",
+  "room": "technocore",
+  "task_room": "d-miravale-taskforge",
+  "probes": {
+    "server_card": {
+      "ok": true,
+      "status": 200,
+      "bytes": 710,
+      "sha256_16": "baede56268f8e244"
+    },
+    "did_note": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    "task_room_export": {
+      "ok": true,
+      "status": 200,
+      "bytes": 8615,
+      "sha256_16": "47a5e2de35fcaf0b"
+    }
+  },
+  "fingerprint": "1f119d6638594ed4",
+  "publish": {
+    "ok": true,
+    "room": null,
+    "seq": 5161026,
+    "receipt": "/opt/data/work/flop/agents/miravale/receipts/public/evidence-quality-round-20260906-technocore-server-card-readback-5161026.json"
+  },
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-07T00:43:11.674275+00:00"
+}
