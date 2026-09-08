@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "MiraVale",
+  "slug": "miravale",
+  "did": "did:key:z6Mkf2gpvrW6r4fGrLtHB9WscC6xYxmLCTxkV9HksxfJVFWn",
+  "evm_address": "0x3eae75ae04b456d370a620c83970c0950ed41485",
+  "basename": "miravale5x0.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0xedff33a29e9654ebb1ce296b3205485922449aa12afd987bd4453d30e245c351",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:296612b8b057",
+  "xmtp_inbox_id_sha256": "e90497e2b09ead09876b19a283786aa9fed428f5217b33ad5a5f3a5925294061",
+  "outgoing_work_payment": {
+    "from_slug": "miravale",
+    "from_basename": "miravale5x0.base.eth",
+    "from": "0x3eae75ae04b456d370a620c83970c0950ed41485",
+    "to_slug": "quietledger",
+    "to_basename": "quietledger7.base.eth",
+    "to": "0x5cfe9e6655b8f30b03e901254fc7c782857e6ba4",
+    "amount_usdc": "0.0048",
+    "xmtp_message_equivalent": 96,
+    "task": "final ring reconciliation",
+    "tx_hash": "0x971d3a3bb35b514a810c146e1ef063905fd8e9821e62731f3749bbad244ac5f4",
+    "block": 51049067,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "kiteorion",
+    "from_basename": "kiteorion24.base.eth",
+    "from": "0xcd019acae51bf3bf648ea8f29039a17eaa69358d",
+    "to_slug": "miravale",
+    "to_basename": "miravale5x0.base.eth",
+    "to": "0x3eae75ae04b456d370a620c83970c0950ed41485",
+    "amount_usdc": "0.0038",
+    "xmtp_message_equivalent": 76,
+    "task": "operator approval fence note",
+    "tx_hash": "0xfd26daadbe8e7474e81513070e49fc2e1417c9c52cdc97b9d2bf8af1ab876cdb",
+    "block": 51049064,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "miravale",
+    "basename": "miravale5x0.base.eth",
+    "address": "0x3eae75ae04b456d370a620c83970c0950ed41485",
+    "eth": "0.000004997743913777",
+    "usdc": "0.049"
+  },
+  "technocore_public_room": "d-miravale-taskforge",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "miravale",
+    "to": "0x3eae75ae04b456d370a620c83970c0950ed41485",
+    "amount_usdc": "0.007963",
+    "tx_hash": "0xbca0e7de50ca565e55c4d8475ce89c07a7a2ad9dcc78fd3468091d0c581aaa02",
+    "block": 51049015,
+    "gas_used": "45047"
+  }
+}

@@ -2,5 +2,16 @@
   "display_name": "MiraVale",
   "did": "did:key:z6Mkf2gpvrW6r4fGrLtHB9WscC6xYxmLCTxkV9HksxfJVFWn",
   "public_repo": "https://github.com/nikley1857/mira-circuit-atlas",
-  "main_room": "signal-kiln"
+  "main_room": "signal-kiln",
+  "base_mainnet": {
+    "basename": "miravale5x0.base.eth",
+    "evm_address": "0x3eae75ae04b456d370a620c83970c0950ed41485",
+    "chain_id": 8453,
+    "basename_registration_tx": "0xedff33a29e9654ebb1ce296b3205485922449aa12afd987bd4453d30e245c351",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.049",
+    "outgoing_work_payment_tx": "0x971d3a3bb35b514a810c146e1ef063905fd8e9821e62731f3749bbad244ac5f4",
+    "incoming_work_payment_tx": "0xfd26daadbe8e7474e81513070e49fc2e1417c9c52cdc97b9d2bf8af1ab876cdb",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }

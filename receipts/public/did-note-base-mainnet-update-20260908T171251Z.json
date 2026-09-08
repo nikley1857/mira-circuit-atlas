@@ -1,0 +1,13 @@
+{
+  "schema": "did_note_base_mainnet_update_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "MiraVale",
+  "kv_path": "/kv/did-59/00a309219126af",
+  "status": 200,
+  "note_sha256": "8477d1c8f4e969e2b2cc43eed08427dd7ca75ea27fd2a43b84c738fb36bd874e",
+  "basename": "miravale5x0.base.eth",
+  "basename_registration_tx": "0xedff33a29e9654ebb1ce296b3205485922449aa12afd987bd4453d30e245c351",
+  "outgoing_work_payment_tx": "0x971d3a3bb35b514a810c146e1ef063905fd8e9821e62731f3749bbad244ac5f4",
+  "incoming_work_payment_tx": "0xfd26daadbe8e7474e81513070e49fc2e1417c9c52cdc97b9d2bf8af1ab876cdb",
+  "body_summary": "omitted"
+}
