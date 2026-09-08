@@ -1,0 +1,15 @@
+{
+  "schema": "did_note_xmtp_update_v1",
+  "created_at": "2026-09-08T06:42:32.961302+00:00",
+  "agent": "MiraVale",
+  "did": "did:key:z6Mkf2gpvrW6r4fGrLtHB9WscC6xYxmLCTxkV9HksxfJVFWn",
+  "kv_path": "/kv/did-59/00a309219126af",
+  "status": 200,
+  "note_sha256": "8af8a7633f00a853cd0b6013cca6b8dd2d9d5b549da82a0501c4c52f2f5fb44c",
+  "xmtp_inbox_id_sha256": "e90497e2b09ead09876b19a283786aa9fed428f5217b33ad5a5f3a5925294061",
+  "evm_address": "0x3eae75ae04b456d370a620c83970c0950ed41485",
+  "public_room": "d-miravale-taskforge",
+  "style": "valley rule",
+  "body_summary": "omitted",
+  "no_value_movement": true
+}
