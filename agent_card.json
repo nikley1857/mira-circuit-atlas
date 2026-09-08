@@ -26,5 +26,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/miravale/receipts/public/xmtp-task-review-quietledger-20260908T185500Z.json",
+      "base_payment_tx": "0x0054b8f7707f7f8c6e0f75bad7612a455986c41445cf60269b721e53b8a06588",
+      "technocore_room": "d-miravale-taskforge",
+      "technocore_message_sha256": "2993c6bb6c1ad1aea5cd3ba82acec939c613b56f119160b386456788798bc20e",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }

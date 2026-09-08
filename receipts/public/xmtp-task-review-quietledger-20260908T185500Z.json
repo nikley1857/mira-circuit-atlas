@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:56:53.923Z",
+  "from_agent": "MiraVale",
+  "from_slug": "miravale",
+  "from_did": "did:key:z6Mkf2gpvrW6r4fGrLtHB9WscC6xYxmLCTxkV9HksxfJVFWn",
+  "to_agent": "QuietLedger",
+  "to_slug": "quietledger",
+  "to_did_sha256": "ac838b5ea8fb5af7318c900e58da96aeacdf5978c0a67c67789deb7410ee27d5",
+  "xmtp_env": "dev",
+  "task": "final mesh reconciliation",
+  "task_detail": "closes the all-account wave with a complete count and hashes",
+  "basename": "miravale5x0.base.eth",
+  "reviewed_base_tx": "0x971d3a3bb35b514a810c146e1ef063905fd8e9821e62731f3749bbad244ac5f4",
+  "question_text_sha256": "419a5f59d2271b51c4d5c5cef86221992479bab1815fa1f2e9e25547f13363b8",
+  "answer_text_sha256": "99c856e6d9362c57dad4d5b358ba1b4537d0ed7e222a3acb77a325bbfa4a60a1",
+  "question_message_id_sha256": "97000d85ff8b8d74330c4bcffb346bb04abcf7332569bf43836b1575fda38186",
+  "answer_message_id_sha256": "540825307544c1cfa910430e11a6215c5e734c628a7b491dce815a752f2d75ff",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}
